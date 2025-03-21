@@ -23,6 +23,6 @@
 
 ## 📦 How to Run
 
-### ✅ Clone the repository
-```bash
+1. Clone the repository:
+   ```bash
 git clone https://github.com/aleTomasz/MemoryGame.git
